@@ -1,2 +1,4 @@
 # BussBoi
- Eurorack IDC based Bussing System
+ Eurorack IDC based bussing system.
+ 
+ 
